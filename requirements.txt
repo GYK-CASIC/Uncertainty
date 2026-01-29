@@ -1,11 +1,7 @@
-os
-json
-csv
-typing
 numpy
 torch
 transformers
 tqdm
 pandas
 matplotlib
-sklearn.metrics
+scikit-learn
