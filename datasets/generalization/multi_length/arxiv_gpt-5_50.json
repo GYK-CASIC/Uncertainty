@@ -1,0 +1,752 @@
+[
+  {
+    "id": 1,
+    "original_text": "an appropriate limit. In thesecond part we consider the continuum limit of this theory, namely, the reverseprocess in which one starts from the discrete theory and tries to recover backthe ordinary Schroedinger quantum mechanics. We consider several examples ofinterest, including the harmonic oscillator, the free particle and a simplecosmological model.",
+    "ai_generated_text": "implications are discussed, especially in contexts where minimal length scales are expected to emerge from quantum gravitational effects. Our results suggest that polymer quantization offers a valuable testing ground for exploring departures from standard quantum mechanics, while maintaining mathematical rigor and providing insights into possible phenomenological signatures of quantum geometry."
+  },
+  {
+    "id": 2,
+    "original_text": "less-evolved YSO's aremore highly clustered than the later stages and that the backgroundextra-galactic population can be fit by the same two-point correlation functionas seen in other extra-galactic studies. We also present a table of matchesbetween several previous infrared and X-ray studies of the Serpens YSOpopulation and our Spitzer data set.",
+    "ai_generated_text": "uncover a significant population of faint, previously undetected young objects, expanding the census of Serpens members. These results provide new insights into the timescales and environmental dependence of low-mass star formation, contributing to a broader understanding of disk dispersal processes and the influence of clustered environments on early stellar evolution."
+  },
+  {
+    "id": 3,
+    "original_text": "andhgamma spin radial velocities originated from the rotation of the funnel at theouter disc edge, while those of halpha were produced due to the flow ofmaterial along the field lines far from the white dwarf (narrow component) andclose to the white dwarf (broad-base component), in agreement with theaccretion curtain model.",
+    "ai_generated_text": "the optical emission is dominated by reprocessing in the accretion curtains, with additional contribution from the heated white dwarf surface. These results provide a coherent picture of the accretion dynamics in EX Hya during quiescence and underscore the importance of multi-epoch observations for tracing structural changes in magnetic cataclysmic variables."
+  },
+  {
+    "id": 4,
+    "original_text": "as the underlying ordinarydifferential integrator. Further, we show that some Castell--Gaines methods areuniformly more accurate than the corresponding stochastic Taylor schemes.Lastly we demonstrate our methods by simulating the dynamics of a free rigidbody such as a satellite and an autonomous underwater vehicle both perturbed bytwo independent multiplicative stochastic noise processes.",
+    "ai_generated_text": "body dynamics with stochastic perturbations and stochastic motion on matrix groups illustrate the efficiency and structure-preserving qualities of the proposed schemes. These results indicate that Lie group-based stochastic integration offers a powerful tool for simulating complex systems with constraints and symmetries in fields such as mechanics, robotics, and mathematical physics."
+  },
+  {
+    "id": 5,
+    "original_text": "and frequencies of 1.5-8mHz with a tendency toward short-period oscillations in internetwork and longerperiods in network regions. However higher spatial resolution, such as thatprovided by ALMA, is required for a clean separation between the featureswithin the solar atmosphere and for an adequate comparison with the output ofthe comprehensive dynamic simulations.",
+    "ai_generated_text": "local magnetic topology. These findings suggest that chromospheric dynamics are governed by a complex coupling between magnetic and hydrodynamic processes, with implications for both solar atmospheric modeling and space weather prediction. Our work underscores the importance of coordinated observational and computational efforts to resolve the remaining ambiguities in chromospheric physics."
+  },
+  {
+    "id": 6,
+    "original_text": "and (iii) the Earth matter effects; or, finally, through the possibledetectability of the neutronization $\\nu_e$ burst. We find that the $\\bar\\nu_e$spectrum can exhibit dramatic features due to the internal NSI-induced resonantconversion. This occurs for non-universal NSI strengths of a few %, and forvery small flavor-changing NSI above a few$\\times 10^{-5}$.",
+    "ai_generated_text": "arrival times could be statistically distinguishable from standard oscillation scenarios, especially when combining data from multiple detectors with complementary flavor sensitivities. We discuss the implications for constraining NSI in the context of future galactic supernova neutrino observations and highlight the synergy with constraints from solar, atmospheric, and accelerator neutrino experiments."
+  },
+  {
+    "id": 7,
+    "original_text": "particular, this implies that for n=2, including singlelevels of MAPK cascades, there are at most three steady states); (3) forparameters near the standard Michaelis-Menten quasi-steady state conditions,there are at most n+1 steady states; and (4) for parameters far from thestandard Michaelis-Menten quasi-steady state conditions, there is at most onesteady state.",
+    "ai_generated_text": "or site-dependent. The framework also predicts conditions under which stochastic fluctuations significantly alter mean system behavior, suggesting functional implications in low-copy-number cellular contexts. This study provides a unifying theoretical basis for understanding multisite modification dynamics and offers quantitative design principles applicable to synthetic biology and drug targeting of kinase/phosphatase systems."
+  },
+  {
+    "id": 8,
+    "original_text": "of 64 processors. The main distinctive feature of the computer programis the ability to parallelize a single DDA simulation over a cluster ofcomputers, which allows it to simulate light scattering by very largeparticles, like the ones that are considered in this manuscript. Currentlimitations and possible ways for improvement are discussed.",
+    "ai_generated_text": "without sacrificing precision. Our results demonstrate that, with appropriate discretization and error control, the DDA can be extended to particles with size parameters exceeding 50, opening new possibilities for modeling scattering in atmospheric science, biomedical optics, and remote sensing. Limitations and potential improvements for large-particle simulations are discussed in detail."
+  },
+  {
+    "id": 9,
+    "original_text": "this is accounted for, theresulting value is \\la r^2\\ra_s^\\pi=0.65\\pm 0.05 fm^2. The main source of errorin our determination is present experimental uncertainties in low energy S-waveI=0 \\pi\\pi phase shifts. Another important contribution to our error is the notyet settled asymptotic behaviour of the phase of the scalar form factor fromQCD.",
+    "ai_generated_text": "precision and consistency with chiral predictions at next-to-next-to-leading order. The implications for the determination of the low-energy constant \\(\\bar{\\ell}_4\\) are discussed, as well as the potential to further reduce uncertainties with upcoming experimental and lattice data. This analysis strengthens the phenomenological bridge between QCD’s fundamental parameters and precise low-energy observables."
+  },
+  {
+    "id": 10,
+    "original_text": "a noncommutative manifoldwhich is equivariant with respect to a natural unitary representation of thequantum isometry group. We give explicit description of quantum isometry groupsof commutative and noncommutative tori, and in this context, obtain the quantumdouble torus defined in \\cite{hajac} as the universal quantum group ofholomorphic isometries of the noncommutative torus.",
+    "ai_generated_text": "spaces, spheres, and certain deformations of tori. The resulting framework bridges Riemannian geometry and quantum symmetries, opening avenues for applications in noncommutative geometry, quantum topology, and mathematical physics. In particular, it offers a systematic method to study quantum analogues of geometric automorphisms beyond the scope of classical Lie group actions."
+  },
+  {
+    "id": 11,
+    "original_text": "estimate of introduced artificial dissipation arepossible. The constructed limiters are tested on classical numerical examples:1D athermal shock tubes with an initial density ratio 1:2 and the 2D lid-drivencavity for Reynolds numbers Re between 2000 and 7500 on a coarse 100*100 grid.All limiter constructions are applicable for both entropic and non-entropicquasiequilibria.",
+    "ai_generated_text": "of vortical structures. The method is algorithmically simple, incurs minimal computational overhead, and can be tuned via physically interpretable parameters. This framework provides a robust tool for extending LBM simulations into challenging regimes characterized by strong gradients, turbulence, or compressibility effects, with potential applications in engineering and geophysical fluid dynamics."
+  },
+  {
+    "id": 12,
+    "original_text": "fluctuations that was damped by collisionlesswave-particle interaction at the ion gyroscale to collisional scales in thephase space and leads to ion heating. The KAW energy is similarly damped at theelectron gyroscale and converted into electron heat. Kolmogorov-style scalingrelations are derived for these cascades. Astrophysical and space-physicalapplications are discussed in detail.",
+    "ai_generated_text": "breaks, anisotropic correlation lengths, and intermittency statistics. This unified approach provides a physically grounded tool for interpreting turbulence signatures across diverse astrophysical environments, supporting improved constraints on energy transport, particle acceleration, and heating in magnetized plasmas. The formalism is readily extendable to include relativistic corrections relevant to high-energy astrophysical systems."
+  },
+  {
+    "id": 13,
+    "original_text": "of an isolatedsolitary wave with the same initial amplitude. This non-local effect is due tononlinear wave interactions within the undular bore and can lead to anadditional solitary wave amplitude growth, which cannot be predicted in theframework of the traditional adiabatic approach to the propagation of solitarywaves in slowly varying media.",
+    "ai_generated_text": "waveform transformation. Comparisons with numerical simulations confirm the accuracy of the asymptotic predictions over a wide range of slope gradients and friction strengths. The results provide insight into the combined effects of topography and bottom friction on long-wave dynamics, with implications for coastal engineering, sediment transport, and nearshore wave forecasting."
+  },
+  {
+    "id": 14,
+    "original_text": "stored data. The locationaccuracy achieved by the intelligent locator is comparable to that obtained bythe conventional triangulation method, while the applicability of theintelligent locator is more general since analysis of sonic ray paths isavoided. This is a promising method for non-destructive testing of aircraftframe structures by the acoustic emission method.",
+    "ai_generated_text": "by over 30%. The methodology proves effective for monitoring structural health in aerospace, civil, and mechanical engineering contexts, particularly where simultaneous damage events may occur. The combination of intelligent locator design, blind separation, and precise delay estimation offers a scalable framework for real-time, multi-event acoustic emission analysis in safety-critical applications."
+  },
+  {
+    "id": 15,
+    "original_text": "several new results are obtained. As a by-product, interestingidentities and properties concerning the torsion tensor fields and thecurvature tensor fields are deduced. Although our investigation is entirelyglobal, we provide; for comparison reasons, an appendix presenting a localcounterpart of our global approach and the local definitions of the specialFinsler spaces considered.",
+    "ai_generated_text": "topology, we extend known results on homogeneous Finsler spaces and provide new insights into their moduli. The paper concludes with applications to the study of geodesic flows, stability of variational problems, and possible links to generalized theories of gravity, highlighting the broader mathematical and physical relevance of special Finsler manifolds."
+  },
+  {
+    "id": 16,
+    "original_text": "with crystalparameters in fair agreement with experiments. For graphite andpotassium-intercalated graphite structural parameters such as bindingseparation, layer binding energy, formation energy, and bulk modulus arereported. Also the adsorption and sub-surface potassium absorption energies arereported. The vdW-DF description, compared with the traditional semilocalapproach, is found to weakly soften the elastic response.",
+    "ai_generated_text": "softens certain out-of-plane modes, potentially influencing thermal conductivity. The interplay between ionic and covalent contributions to bonding is discussed in the context of intercalation energetics and electronic transport. These findings provide microscopic insight into the structure–property relationships of alkali–graphite intercalation compounds, relevant for energy storage, superconductivity, and tunable electronic materials."
+  },
+  {
+    "id": 17,
+    "original_text": "B} = 0.124 \\pm 0.010$ \\msun and $M_{\\rm A} = 1.04\\pm 0.13$ \\msun. Our result for HAT-TR-205-013 B lies above the theoreticalmass-radius models from the Lyon group, consistent with results fromdouble-lined eclipsing binaries. The method we describe offers the opportunityto study the very low end of the stellar mass-radius relation.",
+    "ai_generated_text": "suggest significant tidal evolution. This system contributes to the sparse sample of eclipsing binaries with precisely measured properties for M-dwarfs, enabling stringent constraints on mass–radius relations at the bottom of the main sequence. Our results highlight the utility of single-lined eclipsing binaries for extending empirical calibrations into the low-mass regime."
+  },
+  {
+    "id": 18,
+    "original_text": "restrictions onto lower dimensionalsubspaces of the spherical Radon transforms and the generalized cosinetransforms preserve their integral-geometric structure. We apply this result tothe study of sections of $\\lam$-intersection bodies. New characterizations ofthis class of bodies are obtained and examples are given. We also review someknown facts and give them new proofs.",
+    "ai_generated_text": "distribution theory to obtain both necessary and sufficient criteria for membership in the class of intersection bodies. The results not only unify several known theorems under a common analytic framework but also open pathways for applications in imaging science, inverse problems, and high-dimensional data analysis, where section-based reconstructions are essential."
+  },
+  {
+    "id": 19,
+    "original_text": "are considered on the (4, 2)-dimensionalsupermanifold parametrized by the four spacetime coordinates x^\\mu (with \\mu =0, 1, 2, 3) and a pair of Grassmannian variables \\theta and \\bar\\theta. One ofthe key results of our present investigation is a great deal of simplificationin the geometrical understanding of the nilpotent (anti-)BRST symmetryinvariance.",
+    "ai_generated_text": "shifts in superspace clarifies their mutual anticommutativity and the role of Curci–Ferrari-type conditions in non-Abelian cases. This unified treatment provides deeper insight into the cohomological structure underlying gauge invariance, and offers a versatile method applicable to topological field theories, higher-form gauge fields, and quantization schemes beyond the standard Faddeev–Popov approach."
+  },
+  {
+    "id": 20,
+    "original_text": "T. Tao by usingcombinatorics of puzzles while the stability property was not apparent fromthat formula. We also use the Littlewood-Richardson polynomials to describe themultiplication rule in the algebra of the Casimir elements for the generallinear Lie algebra in the basis of the quantum immanants constructed by A.Okounkov and G. Olshanski.",
+    "ai_generated_text": "results that enable passage to limits in the number of variables, revealing links to symmetric function operators and vertex models in statistical mechanics. This framework unifies diverse constructions and offers a systematic approach to producing and analyzing symmetric functions tailored to applications in algebraic combinatorics, representation theory, and mathematical physics."
+  },
+  {
+    "id": 21,
+    "original_text": "variablesis reduced to normal ordering. As a last restriction on that class is imposedthe requirement for existing of an effective procedure for calculating vacuummean values. The standard bilinear commutation relations are pointed as theonly known ones that satisfy all of the mentioned conditions and do notcontradict to the existing data.",
+    "ai_generated_text": "generalized possibilities consistent with locality and positivity of energy. The results clarify the minimal algebraic requirements for a self-consistent quantum theory in the free-field case, providing a systematic comparison across spins and suggesting potential generalizations for interacting fields. This study consolidates the foundational commutation structures underpinning relativistic quantum field theory."
+  },
+  {
+    "id": 22,
+    "original_text": "form at a near-criticalfilm height. The present work reinforces previous findings about anisotropy andSAQD order and presents as explicit and transparent mechanism for ordering withcorresponding analytic equations. In addition, SAQD formation is by its naturea stochastic process, and various mathematical aspects regarding statisticalanalysis of SAQD formation and order are presented.",
+    "ai_generated_text": "The results provide guidelines for optimizing SAQD fabrication toward targeted optoelectronic performance, highlighting pathways for integrating quantum dots into scalable device architectures. This study bridges growth science and device engineering, contributing to the rational design of nanostructures with tailored quantum confinement and reproducible properties for next-generation photonic and quantum technologies."
+  },
+  {
+    "id": 23,
+    "original_text": "under which a subsheaf will have the same cohomology as the sheafcontaining it. Using a smoothing argument this allows us to show that the sheafcohomology of the currents under consideration can be canonically identifiedwith the deRham cohomology groups. Our main theorem can be applied in both thesmooth and holomorphic setting.",
+    "ai_generated_text": "sets, and skew-product systems, illustrating how our constructions recover classical results in invertible dynamics as a limiting case. This framework opens pathways to a deeper understanding of statistical properties, ergodic decompositions, and rigidity phenomena in noninvertible smooth dynamics, providing a bridge between purely topological approaches and the smooth, measure-theoretic theory."
+  },
+  {
+    "id": 24,
+    "original_text": "as readily observable asrho_h. In all cases, the normalization of mu_ev required to fit the GCMFimplies cluster lifetimes that are within the range of standard values(although falling towards the low end of this range). Our analysis does notdepend on any assumptions or information about velocity anisotropy in theglobular cluster system.",
+    "ai_generated_text": "present-day GCMF is not universal but retains measurable imprints of cluster structural properties. This dependence provides constraints on both the initial cluster mass distribution and the dynamical processes shaping the current population, with implications for interpreting extragalactic GCMFs and reconstructing the formation history of the Milky Way’s globular cluster system."
+  },
+  {
+    "id": 25,
+    "original_text": "discuss two-solitoncollisions. In particular, the spin-mixing phenomenon is confirmed in acollision involving the DW-type. The results are consistent with those of theprevious studies for bright solitons under vanishing boundary conditions anddark solitons. As a result, we establish the robustness and the usefulness ofthe multiple matter-wave solitons in the spinor BECs.",
+    "ai_generated_text": "integrability and physical parameters such as background density and spin-dependent coupling, providing insights into experimentally accessible regimes in ultracold atomic gases. Our findings may inform the design of matter-wave interferometers and the controlled manipulation of spinor solitons in optical traps, with potential applications in quantum information and nonlinear atom optics."
+  },
+  {
+    "id": 26,
+    "original_text": "concept of dynamically evolving extra dimensions. Thus, together with thebounded range of the early cosmological constant, this cosmological ensemblesuggests the mechanism of constraining the landscape of string vacua and,simultaneously, a possible solution to the dark energy problem in the form ofthe quasi-equilibrium decay of the microcanonical state of the Universe.",
+    "ai_generated_text": "discuss the semiclassical limit, in which saddle-point geometries dominate the path integral, and illustrate how certain inflationary scenarios emerge as typical configurations in the ensemble. The microcanonical interpretation also provides a natural framework for addressing entropy bounds and holographic considerations in cosmology, linking quantum gravitational thermodynamics with observable large-scale structure."
+  },
+  {
+    "id": 27,
+    "original_text": "an \"ordinary\" shock, at which thehydrodynamic fields are discontinuous but finite. We confirm stability of theexact solutions with respect to small one-dimensional perturbations by solvingthe ideal hydrodynamic equations numerically. Furthermore, numerical solutionsshow that the local features of the density blowup hold universally,independently of details of the initial and boundary conditions.",
+    "ai_generated_text": "study provides analytical estimates for growth rates and compares them with direct simulation Monte Carlo benchmarks, demonstrating quantitative agreement within the dilute limit. Beyond fundamental interest, these insights are relevant for industrial processes involving granular cooling and for astrophysical contexts where dissipative particulate matter aggregates spontaneously under minimal external influence."
+  },
+  {
+    "id": 28,
+    "original_text": "is expected that the off-shell pp-waves can be identified onthe two sides. Furthermore, given the massless pp-wave field configurations, aniterative method for computing the higher massive modes using the CSFTequations of motion has been discussed. All our bosonic string theory analysescan be generalised to the common Neveu-Schwarz sector of superstrings.",
+    "ai_generated_text": "sector remain invariant under deformations of the parent theory, provided the background retains the pp-wave form. Potential implications include simplifications in the study of string theory in curved backgrounds, robustness of certain observables under high-curvature perturbations, and new avenues for holographic dualities where the pp-wave limit isolates tractable universal dynamics."
+  },
+  {
+    "id": 29,
+    "original_text": "spatial disribution of the bright emmiting area on the opal surface isbeing changed. In the case of the putting the frozen nonlinear liquids on theCu plate long-term blue bright luminiscence took place in the frozen species ofthe liquids. Temporal characteristics of this luminiscence are nearly the sameas in opal matrixes.",
+    "ai_generated_text": "modification of local density of optical states. Potential applications include highly directional light sources, photonic sensors, and platforms for studying light–matter interactions at mesoscopic scales. The reported results provide new insight into the controllable generation of structured optical emissions, opening avenues for engineered photonic devices exploiting the photonic flame effect."
+  },
+  {
+    "id": 30,
+    "original_text": "mean predictorerror is used in the definition of predictor quality, while the redundancy isexpressed by the mean square distance between data points. Both statistics areused in a new definition of predictor cost function. From the minimum of thepredictor cost function, a proper number of data in the model is estimated.",
+    "ai_generated_text": "empirical laws, even in regimes with sparse or heterogeneous data. Furthermore, the methodology naturally extends to multivariate scenarios, facilitating the discovery of coupled dependencies among physical quantities. This work underscores the importance of nonparametric statistical tools in experimental physics and offers practical guidelines for their implementation in diverse measurement contexts."
+  },
+  {
+    "id": 31,
+    "original_text": "generalisable beyond General Relativity, e.g., a speed of$4500\\kms$ is easily obtained in the relativistic MONDian lensing model ofAngus et al. (2007). However, MONDian model with little hot dark matter$M_{HDM} \\le 0.6\\times 10^{15}\\msun$ and CDM model with a small halo mass $\\le1\\times 10^{15}\\msun$ are barely consistent with lensing and velocity data.",
+    "ai_generated_text": "lensing maps. The inferred dark matter mass fraction is robust to moderate variations in initial conditions and cosmological parameters. This approach demonstrates that classical timing arguments, when generalized to cluster scales, provide an independent semi-analytical tool to constrain dark matter content in extreme merging systems, complementing lensing and hydrodynamical simulations."
+  },
+  {
+    "id": 32,
+    "original_text": "special case when $A\\ge ||B||$. In the course of this work, we introduce the novel notion of $Y$-dominatedmajorisation between the spectra of two Hermitian matrices, where $Y$ is itselfa Hermitian matrix, and prove a certain property of this relation that allowsto strengthen the results of Bourin-Uchiyama and Kosem, mentioned above.",
+    "ai_generated_text": "yield bounds on entropy-like quantities and stability estimates for quantum channels. We also address the case of block matrices, demonstrating how structural assumptions enable stronger norm bounds. The results contribute to a deeper understanding of matrix function inequalities, extending the scope of Ando–Zhan type results in both theory and application."
+  },
+  {
+    "id": 33,
+    "original_text": "of quark andantiquark fragmentation functions inside a nucleus, which qualitativelyexplains the experimentally observed flavor dependence of the leading hadronsuppression in semi-inclusive DIS off nuclear targets. The quark-antiquarkannihilation processes also mix quark and gluon fragmentation functions in thelarge fractional momentum region, leading to a flavor dependence of jetquenching in heavy-ion collisions.",
+    "ai_generated_text": "relative to the vacuum baseline, depending on the interplay between energy loss and parton recombination. These results provide a consistent theoretical framework for interpreting jet quenching and flavor-dependent hadron production in deep inelastic scattering off nuclei and in heavy-ion collisions, offering insights into the microscopic dynamics of the nuclear medium."
+  },
+  {
+    "id": 34,
+    "original_text": "organic solvent DCE. Pressure cycling or annealing during LB filmcompression reduces hysteresis and facilitates high degree alignment andpacking of SWNTs characterized by microscopy and polarized Raman spectroscopy.The monolayer SWNTs are readily patterned for device integration bymicrofabrication, enabling the highest currents 3mA through the narrowestregions packed with aligned SWNTs thus far.",
+    "ai_generated_text": "and sensing applications. The process is compatible with back-end-of-line integration, offering a pathway toward heterogeneous systems that leverage both CMOS and nanocarbon elements. These results underscore the promise of single walled carbon nanotubes as versatile building blocks for next-generation nanoelectronic architectures, bridging the gap between laboratory-scale demonstrations and industrial-scale deployment."
+  },
+  {
+    "id": 35,
+    "original_text": "confirms the analytical estimations of the branchingdensity in the phase space. The nature of the refractority of SE pulses isclosely connected with the pointed branching and reflects the crises of strangeattractors, i.e. their collisions with unstable periodic components of thehigher branches of SE states in the nonautonomous microwave phonon laser.",
+    "ai_generated_text": "the onset of low-frequency oscillations in the phonon SE intensity. These results provide deeper insight into the nonlinear physics of driven quantum acoustic generators, suggesting new pathways for controlled hypersound emission and potential applications in precision spectroscopy, quantum information processing, and fundamental studies of dissipative self-organization in solid-state resonant systems."
+  },
+  {
+    "id": 36,
+    "original_text": "on the measured nanodot size distribution. The 58 and 67 nmnanodots exhibit vortex states, where the nucleation and annihilation of thevortices are manifested as butterfly-like features in the FORC distribution andconfirmed by micromagnetic simulations. Furthermore, the FORC method givesquantitative measures of the magnetic phase fractions, and vortex nucleationand annihilation fields.",
+    "ai_generated_text": "reversal barrier. These findings provide new insight into the scaling of magnetic switching phenomena at the nanoscale, with implications for high-density magnetic storage, spintronic devices, and energy-efficient magnetic logic. Our study establishes a framework for predicting and controlling magnetization reversal in sub-100 nm structures through tailored nanofabrication and field protocols."
+  },
+  {
+    "id": 37,
+    "original_text": "bin durations, asnecessary for a fading source. Results. The light curve repository website(http://www.swift.ac.uk/xrt_curves) contains light curves, hardness ratios anddeep images for every GRB which Swift's XRT has observed. When new GRBs aredetected, light curves are created and updated within minutes of the dataarriving at the UK Swift Science Data Centre.",
+    "ai_generated_text": "suggesting a link between optical emission mechanisms and central engine activity. Our results demonstrate the critical importance of integrating Swift’s multi-instrument capabilities with coordinated ground-based campaigns, and provide guidelines for optimising future transient discovery pipelines. This work underscores how rapid, precise localisation transforms GRB science in the time-domain astronomy era."
+  },
+  {
+    "id": 38,
+    "original_text": "argue that the inclination grows also foreccentric nearly horizon-skimming orbits. We also find that the inclinationchange is, in any case, very small. As such, we conclude that these orbits arenot likely to have a clear and peculiar imprint on the gravitational waveformsexpected to be measured by the space-based detector LISA.",
+    "ai_generated_text": "highlight subtle deviations from the moderate-spin case, including extreme sensitivity of orbital parameters to small changes in spin and angular momentum, which may provide a pathway to constraining black hole spin through high-resolution timing and spectral measurements. Would you like me to also prepare a concise title for this abstract?"
+  },
+  {
+    "id": 39,
+    "original_text": "observed in several forms, includingsingle vortices, vortex lattices, and vortex pairs and rings. The recentobservation of quantized vortices in a fermionic gas was taken as a clearsignature of the underlying condensation and superfluidity of fermion pairs. Inaddition to BECs, quantized vortices also occur in superfluid Helium, nonlinearoptics, and type-II superconductors.",
+    "ai_generated_text": "attenuation. The results reveal distinct pathways for energy transfer mediated by vortex clusters, highlighting their role in anisotropy development and intermittency. These findings provide new insight into the universality and variability of vortex dynamics, with implications for geophysical flows, aerodynamics, and engineering systems where turbulence control or prediction is critical."
+  },
+  {
+    "id": 40,
+    "original_text": "the limit of weak spin-orbit coupling. However, at hightemperature and/or for large spin-orbit coupling, one has to use theequation-of-motion approach when many levels are involved. Moreover, spindephasing can be much more efficient than spin relaxation at high temperature,though the two only differs by a factor of two at low temperature.",
+    "ai_generated_text": "nuclear spin fluctuations. Strategies such as isotopic purification, optimized device design, and dynamical decoupling are shown to extend coherence times significantly. These results provide insight into the dominant decoherence channels in semiconductor spin qubits and offer practical guidance for engineering quantum dots with enhanced coherence for scalable quantum computing applications."
+  },
+  {
+    "id": 41,
+    "original_text": "to depend on the competition of thecouplings. It is also uncovered that the XXZ anisotropy of F and AF couplingsleads the system of case (c) to display quite different behaviors. In addition,the experimental data of the susceptibility, specific heat and magnetizationfor the compound Cu$_{3}$(CO$_{3}$)$_{2}$(OH)$_{2}$ are fairly compared withour TMRG results.",
+    "ai_generated_text": "behavior in susceptibility. Thermodynamic signatures are analyzed in relation to underlying spin correlations, revealing distinct scaling behaviors near critical points. These results provide a comprehensive comparative understanding of spin-1/2 Heisenberg diamond chains with varying coupling configurations, offering insights relevant to both synthetic quantum magnets and natural compounds exhibiting diamond-chain geometries."
+  },
+  {
+    "id": 42,
+    "original_text": "the extraction of the law yo(x) is specified. The mutualinformation is defined by the marginal and the conditional PDFs of thevariables. The ratio between mutual information and marginal information isused to indicate which variable is the independent one. The properties of theintroduced statistics are demonstrated on deterministically and randomlyrelated variables.",
+    "ai_generated_text": "realistic quantification of residual variability. Applications to experimental physics illustrate how the approach can identify functional laws, assess confidence intervals, and guide further measurements. The results highlight the utility of probabilistic data analysis in extracting reliable physical relationships from complex, noisy datasets, providing a generalizable tool for empirical model discovery."
+  },
+  {
+    "id": 43,
+    "original_text": "to be improved and expanded. The performance ofthe program is compared with more approximate and with more sophisticatedmethods. An Appendix provides diagnostic plots to estimate physical parametersfrom line intensity ratios of commonly observed molecules. This program shouldform an important tool in analyzing observations from current and future radioand infrared telescopes.",
+    "ai_generated_text": "a fraction of the runtime. Sensitivity tests reveal the robustness of the technique to observational noise and calibration uncertainties. This framework paves the way for efficient exploitation of upcoming large-scale surveys, offering a practical tool for translating high-fidelity line measurements into detailed physical and chemical characterizations of the interstellar medium."
+  },
+  {
+    "id": 44,
+    "original_text": "information andinformation cost function. From the experimental information the complexity ofthe phenomenon can be simply estimated, while the proper number of experimentsneeded for its exploration can be determined from the minimum of the costfunction. The performance of the approximate estimation of these statistics isdemonstrated on two-dimensional normally distributed random data.",
+    "ai_generated_text": "redundancy analysis can reveal latent structures, uncover hidden correlations, and prevent overfitting in model construction. This approach offers a principled route to balancing thoroughness with efficiency in experimental science, with implications for fields ranging from physics and biology to social sciences and engineering, wherever data acquisition is costly or invasive."
+  },
+  {
+    "id": 45,
+    "original_text": "components, that we define as those componentsadmitting a neighborhood where all leaves are compact. If $Sing(\\F)$ admitsonly weakly stable components, given by smoothly embedded curves diffeomorphicto $S^1$, we are able to extend Haefliger's theorem. Finally, the existence ofa closed curve, transverse to the foliation, leads us to state a Novikov-typeresult.",
+    "ai_generated_text": "constraints on the possible fundamental groups of $M$ compatible with given holonomy dynamics, and provide examples illustrating sharpness of these bounds. Applications to geometric structures, such as contact and confoliation frameworks, are discussed, highlighting how codimension one foliations serve as a bridge between purely topological and geometric analysis on manifolds."
+  },
+  {
+    "id": 46,
+    "original_text": "we extract $\\alpha$through the use of several adequate parametrizations, showing that there is norelevant discrepancy between frequentist and bayesian results. The mostrelevant information, in terms of $\\alpha$, is the exclusion of values around$\\alpha\\sim \\pi/4$; this result is valid in the presence of arbitrary NewPhysics contributions to the $\\Delta I=1/2$ piece.",
+    "ai_generated_text": "results demonstrate that, while the central values of $\\alpha$ are broadly consistent with the global CKM fit, the range of allowed values can vary substantially depending on the statistical methodology. We conclude with recommendations for presenting $\\alpha$ constraints in a way that is transparent and reproducible across different statistical paradigms."
+  },
+  {
+    "id": 47,
+    "original_text": "configurations is abouttwo orders of magnitude, which reproduces the essential features of theexperimental measured results. Moreover, we find that the switching behaviorwithin a wide bias voltage window is extremely robust to both substituting F orS for H or O and varying end anchoring atoms from S to Se and Te.",
+    "ai_generated_text": "for molecular-scale optoelectronic switches. Furthermore, the role of contact geometry and anchoring groups is analyzed, showing that optimized Au–S coupling can enhance switching efficiency. These results provide atomistic insight into the transport modulation achievable through photoinduced structural transitions, offering guidance for the design of light-controlled molecular devices in nanoscale electronics."
+  },
+  {
+    "id": 48,
+    "original_text": "increasing. At highertemperatures, Young's modulus starts to increase while the Poisson ratio andtensile strength decrease. In the temperature range from 1200K to 1800K, theSWCNT is already deformed and softened. Applying strain on these deformed andsoftened SWCNTs do not follow the same pattern as in the temperature range of300K to 900K.",
+    "ai_generated_text": "modeling framework enables quantitative predictions of mechanical degradation, which are validated against experimental trends reported in literature. These findings provide insights into the operational limits of SWCNT-based composites and nanoelectromechanical systems under high-temperature environments, highlighting the need for thermal management strategies to preserve performance and structural integrity in future applications."
+  },
+  {
+    "id": 49,
+    "original_text": "also inoverdense regions prohibiting the traditional detection in the HI forest.Furthermore, we emphasise that softening of quasar radiation by radiativetransfer in the intergalactic medium is important to understand the observedspectral shape variations. From the transverse proximity effect ofQSOJ23495-4338 we obtain a lower limit on the quasar lifetime of ~25 Myr.",
+    "ai_generated_text": "The proximity of these sources to HE2347-4342 also allows for targeted studies of transverse proximity effects and the anisotropy of quasar emission. Our findings expand the known quasar population in this region and lay the groundwork for future multi-sightline tomographic reconstructions of intergalactic hydrogen and metal distribution at high redshift."
+  },
+  {
+    "id": 50,
+    "original_text": "Section 4 has been thoroughly revised, and errorshave been corrected; however, the main results of Section 4 do not change.Sections 1, 2, and 3 are unchanged, except for the proof of Theorem 2.3, whichwas incomplete; a complete proof was published in the Appendix of reference[6], and is also given here.",
+    "ai_generated_text": "embeddings between \\( M_{k,1} \\) for different parameters \\( k \\) and connections with transformation monoids and automata theory. These generalized monoids provide a natural framework for extending group-theoretic techniques to non-invertible settings and suggest new avenues for studying the interplay between infinite combinatorial structures and finitely generated algebraic systems."
+  },
+  {
+    "id": 51,
+    "original_text": "the direction] and the corresponding one obtainedunder our [Time Sequential Simulation], it is concluded that the measurement ofthe direction of the incident neutrino for the neutrino events occurring insidethe detector in the SK analysis turns out to be unreliable, which holdsirrespective of the existence and/or non-existence of the neutrino oscillation.",
+    "ai_generated_text": "a significant deficit of upward-going muon-like events relative to expectations without oscillations, consistent with previous findings. This comprehensive treatment of both event categories strengthens the evidence for atmospheric neutrino oscillations and refines the parameter space, contributing to the global understanding of neutrino properties and their role in fundamental particle physics."
+  },
+  {
+    "id": 52,
+    "original_text": "transcarbamylases while being absent in homologous proteins ofsimilar structure. The emergence of the knot is accompanied by a shift in theenzymatic function of the protein. We suggest that the simple insertion of ashort DNA fragment into the gene may suffice to turn an unknotted into aknotted structure in this protein.",
+    "ai_generated_text": "mechanical stability, albeit with increased folding complexity. The rarity of such structures implies strong selective pressures against knot formation, balanced by niche functional benefits in certain contexts. This study provides a framework for understanding the origin and significance of knots in proteins, and offers insights into their potential biotechnological applications."
+  },
+  {
+    "id": 53,
+    "original_text": "of strong back-action, such simple relationship nolonger holds, even if the qubit-SET coupling is small. It does not hold eitherin the strong-coupling regime, even in the absence of the back-action. Inaddition, we found that our model predicts localization of the qubit in thestrong-coupling regime, resembling that of the spin-boson model.",
+    "ai_generated_text": "fluctuations. Our results provide quantitative predictions for realistic device configurations and clarify how measurement back-action from the SET affects qubit coherence. This work contributes to the broader understanding of solid-state qubit readout processes and offers guidelines for minimizing decoherence in quantum information applications through careful design of the qubit–detector interface."
+  },
+  {
+    "id": 54,
+    "original_text": "the Boolean functions used to constructthe network. Hence we can apply a known theorem for the expectation of theaverage sensitivity. In order to prove the results for networks with biasedfunctions, we deduct the expectation of the average sensitivity when onlyfunctions with specific connectivity and specific bias are chosen at random.",
+    "ai_generated_text": "state space. Numerical simulations complement our theoretical results, confirming the existence of intermediate regimes with rich dynamical structure. This work not only generalizes Lynch’s proofs but also provides tools for analyzing large-scale genetic regulatory networks with complex topologies, contributing to the understanding of robustness and adaptability in biological information processing."
+  },
+  {
+    "id": 55,
+    "original_text": "via appropriate summations. Surprisingly, this result on multi-chainenumeration is new even for the original non-crossing partitions of Kreweras.Moreover, the result allows one to solve the problem of rank-selected chainenumeration in the type $D_n$ generalised non-crossing partitions poset, which,in turn, leads to a proof of Armstrong's $F=M$ Conjecture in type $D_n$.",
+    "ai_generated_text": "to classical cases such as type $A_n$ and $B_n$. Our methods combine character-theoretic techniques with polyhedral combinatorics, yielding closed forms in several infinite families and new asymptotic estimates in exceptional types. These results contribute to a deeper understanding of the interplay between Coxeter group structure and parabolic subgroup factorization patterns."
+  },
+  {
+    "id": 56,
+    "original_text": "primordial structure has been erased, our findingssupport a model where embedded clusters are built up from numerous smallersub-clusters. Finally, the results of our Spitzer census indicate that thesupposition that star formation must progress rapidly in a dark cloud shouldnot preclude these observations that show it can be relatively long lived.",
+    "ai_generated_text": "as a function of stellar mass and cluster radius, providing constraints on disk evolution timescales. Our results offer a detailed empirical foundation for understanding the interplay between environment, star formation history, and planet-forming potential in IC 348, and demonstrate the efficacy of combining space-based infrared surveys with targeted ground-based spectroscopy."
+  },
+  {
+    "id": 57,
+    "original_text": "two-componentplane shock model with electron temperatures of $kT$ $\\sim$ 0.3 and 2 keV. Asthe shock front interacts with dense CSM all around the inner ring, the X-rayremnant is now expanding at a much slower rate of $v$ $\\sim$ 1400 km s$^{-1}$than it was until 2004 ($v$ $\\sim$ 6000 km s$^{-1}$).",
+    "ai_generated_text": "of particle acceleration. We discuss how these X-ray diagnostics complement multi-wavelength campaigns, providing a coherent picture of the remnant’s hydrodynamic and radiative evolution. The continuing monitoring of SN 1987A offers a unique laboratory for studying supernova remnant formation in real time, bridging the gap between core-collapse explosions and mature remnants."
+  },
+  {
+    "id": 58,
+    "original_text": "(MMSE)). Numerical examples showthat these approximations accurately predict the performance of finite-sizesystems of interest. Given a target spectral efficiency, numerical examplesshow that the amount of feedback required by the linear MMSE receiver is onlyslightly more than that required by the optimal receiver, whereas the matchedfilter can require significantly more feedback.",
+    "ai_generated_text": "for the rate loss as a function of feedback resolution and delay, offering insights into system design trade-offs. Our findings suggest that adaptive feedback strategies, in which the resolution is varied according to channel dynamics, can approach optimal performance with reduced overhead, making them attractive for next-generation wireless communication systems."
+  },
+  {
+    "id": 59,
+    "original_text": "a young (< 10000 years old) pulsar wind nebulaformed by a low magnetic field (<10^12 G) neutron star born spinning rapidly(<10 ms) expanding into an undetected SNR formed by an energetic (>10^51 ergs),low ejecta mass (M < 5 Solar Masses) supernova explosion which occurred in alow density (n~0.03 cm^{-3}) environment.",
+    "ai_generated_text": "faint and diffuse emission, compatible with an aged remnant expanding in a low-density environment. Combining these diagnostics, we conclude that G328.4+0.2 is most likely an old supernova remnant in the late adiabatic phase, with a diameter of ∼25 pc and an estimated age of several tens of thousands of years."
+  },
+  {
+    "id": 60,
+    "original_text": "d+Au and high statistics Au+Au collisions at$\\sqrt{s_{NN}}$=200 GeV. An important aspect of the analysis is the subtractionof combinatorial backgrounds. Systematic uncertainties due to this subtractionand the flow harmonics v2 and v4 are investigated in detail. The implicationsof the results for the presence or absence of conical flow from Mach-cones arediscussed.",
+    "ai_generated_text": "trigger $p_T$, and associated particle kinematics constrains the path-length dependence of energy loss and the transport properties of the quark–gluon plasma. These results provide stringent tests for theoretical descriptions of jet–medium interactions and strengthen the evidence for the creation of a hot, dense QCD medium in heavy-ion collisions at RHIC."
+  },
+  {
+    "id": 61,
+    "original_text": "the redshifted Feline and continuum agrees with the local dynamical time-scale of the accretiondisc at 10 r_g around a black hole of 10^7 M_sun. Given the shape of theredshfted line emission and the overall X-ray variability pattern, the line islikely to arise from the relativistic region near the black hole.",
+    "ai_generated_text": "a compact, possibly vertically extended corona, with indications of inflow signatures in some sources. These findings support the use of rapid X-ray variability as a direct probe of strong-gravity environments and accretion physics, offering complementary constraints to traditional spectral fitting methods. We discuss implications for future high-throughput, high-time-resolution X-ray missions."
+  },
+  {
+    "id": 62,
+    "original_text": "proofs of these positivity properties depend on the Riemannhypothesis over finite fields and the related results. Thus the reduction here,in conjunction with the flip, in essence, says that the validity of the P vs.NP conjecture in characteristic zero is intimately linked to the Riemannhypothesis over finite fields and related problems.",
+    "ai_generated_text": "criteria for verifying the nonexistence of certain modules in coordinate rings, and demonstrate how these criteria can be applied to simplified models that capture key aspects of the original separation problems. This work contributes toward the long-term GCT program of translating complexity separations into concrete algebraic statements amenable to proof."
+  },
+  {
+    "id": 63,
+    "original_text": "detectedit. We discuss the possibility for this shallow absorption feature to be causedby the presence of chromium on the asteroid surface. Our results indicate that,together with (1459) Magnya, asteroids (7472) Kumakiri and (10537) 1991 RY16may be the only traces of basaltic material found up to now in the outer MainBelt.",
+    "ai_generated_text": "existence of multiple basaltic sources beyond the Vesta family, supporting the hypothesis of widespread differentiation among early planetesimals. This expanded inventory of basaltic asteroids contributes to refining models of planetary formation, collisional evolution, and the thermal history of the Main Belt, while guiding future observational campaigns and sample-return mission planning."
+  },
+  {
+    "id": 64,
+    "original_text": "or optical interferometry. For the SKA, detection sensitivitywill extend to solar-type stars. Planets discovered through radio astrometricmethods will be suitable for characterization through extreme adaptive optics. The complementarity of radio astrometric techniques with other methodsdemonstrates that radio astrometry can play an important role in the roadmapfor exoplanet discovery and characterization.",
+    "ai_generated_text": "can reveal Earth-mass planets in habitable zones around M-dwarfs, complementing optical and infrared methods. This approach not only expands the accessible parameter space for exoplanet discovery but also enables long-term monitoring for dynamical studies, offering a powerful avenue toward a more complete census of planetary systems in the solar neighborhood."
+  },
+  {
+    "id": 65,
+    "original_text": "that thescattering operator is the identity. Our results give a rigorous proof that theconstruction of \\cite{glu1, glu2, le}, \\cite{pss1} perfectly cloaks passive andactive devices from observation by electromagnetic waves. Furthermore, we provecloaking for general anisotropic materials. In particular, our results provethat it is possible to cloak objects inside general crystals.",
+    "ai_generated_text": "reduction can be achieved over a finite bandwidth. Furthermore, we discuss potential extensions to broadband and multi-frequency cloaks by employing dispersion-engineered metamaterials. Our results contribute to bridging the gap between idealized cloaking theory and realizable devices, offering guidelines for experimental implementation and highlighting the trade-offs inherent to practical invisibility systems."
+  },
+  {
+    "id": 66,
+    "original_text": "stellar object candidates in the Serpens Cloud that is not present ineither of the reference data sets. We also show a comparison of visualextinction and cool dust emission illustrating a close correlation between thetwo, and find that the most embedded YSO candidates are located in the areas ofhighest visual extinction.",
+    "ai_generated_text": "indicates a strong correlation between source density and high column density gas. These observations provide new constraints on the timescales of clustered star formation and the role of environment in shaping protostellar evolution, establishing Serpens as a complex and active laboratory for studying low-mass star formation in nearby molecular clouds."
+  },
+  {
+    "id": 67,
+    "original_text": "discrepancies between previous 3PCFmeasurements can be explained in part by differences in binning choices. Weexplore the degree to which a simple local bias model can fit the simulated3PCF. The agreement between the model predictions and galaxy 3PCF measurementslends further credence to the straightforward association of galaxies with CDMhalos and subhalos.",
+    "ai_generated_text": "HOD parameters, demonstrating that it provides complementary constraints to the two-point function on satellite fraction and central galaxy bias. These results underscore the utility of the 3PCF as a robust probe of galaxy bias and the physics of halo occupation, paving the way for joint analyses with upcoming large-scale surveys."
+  },
+  {
+    "id": 68,
+    "original_text": "identificationof more dynamical families of KBOs (like the 2003 EL61 family), would provideadditional information on the relative roles of collisional grinding anddynamical ejection in the Kuiper Belt. The uncertainties also motivatecalculations that combine collisional and dynamical evolution, a `unified'calculation that should give us a better picture of KBO formation andevolution.",
+    "ai_generated_text": "how the transition from growth-dominated to collision-dominated regimes depends sensitively on the interplay between dynamical heating and radiative cooling of small grains, as well as external influences such as stellar flybys. These results inform broader questions about planetesimal formation efficiency and the long-term dynamical evolution of the outer solar system."
+  },
+  {
+    "id": 69,
+    "original_text": "out the possibility of a large fraction of darkmatter particles being scattered away due to collisions. Our limit is a slightimprovement over the previous result from analytic estimates, and rules outmost of the 0.5 - 5cm^2/g range invoked to explain inconsistencies between thestandard collisionless cold dark matter model and observations.",
+    "ai_generated_text": "support in dynamically disturbed systems. These results underscore the importance of multi-wavelength approaches for calibrating cluster mass measurements and for testing cosmological models. Our work highlights regions of tension between simulations and observations that may point to refinements in the treatment of baryonic physics or alternative models for dark matter."
+  },
+  {
+    "id": 70,
+    "original_text": "contraryto the general pattern observed in the UV-X-ray bands. On five nights ofNovember we had nearly continuous monitoring for 2-3 hours. A variabilityepisode with a time scale of ~24 h is well documented, a much more rapid flarewith t=1-2 h, is also apparent, but is supported by relatively few points.",
+    "ai_generated_text": "of multiwavelength campaigns for disentangling competing emission models and highlights PKS2’s role as a benchmark source for testing variability-driven constraints. The results provide new insights into the interplay between particle acceleration, cooling, and jet dynamics in BL Lac objects, offering a pathway toward more precise characterization of blazar emission mechanisms."
+  },
+  {
+    "id": 71,
+    "original_text": "when the C abundance is reduced to [C/H] = -1.5. The donor starcontribution in the H waveband is determined to be 82+-2%. Combined withprevious published results from Froning & Robinson (2001) and Marsh et al.(1994), this gives a precise mass for the black hole in A0620-00 of M_BH =9.7+-0.6 M_solar.",
+    "ai_generated_text": "inner disk contributing to the observed flux. These results improve constraints on the donor star’s properties and accretion flow structure, providing a more complete picture of the energy distribution in A0620-00. Our analysis underscores the utility of broadband NIR spectroscopy in disentangling stellar and accretion components in quiescent X-ray binaries."
+  },
+  {
+    "id": 72,
+    "original_text": "engine, but further out, the production mechanism of hard X-ray andgamma-ray photons becomes rapidly dominated by synchrotron self-Comptonemission. We further discuss the possibility of an observable X-ray spectralvariability pattern. The simulated results do not predict observable hysteresispatterns in the optical or soft X-ray regimes for major flares on multi-daytime scales.",
+    "ai_generated_text": "acceleration processes in a relativistic outflow. The campaign’s results reinforce the importance of simultaneous, broadband observations for constraining blazar emission models and provide evidence for complex temporal and spectral behavior in 3C 66A. These findings contribute to a deeper understanding of particle acceleration and radiative mechanisms in BL Lac jets."
+  },
+  {
+    "id": 73,
+    "original_text": "is much more populatedthan the jovian mass range. We discuss the metallicity distributions of M dwarfwith and without planets and find a low 11% probability that they are drawnfrom the same parent distribution. Moreover, we find tentative evidence thatthe host star metallicity correlates with the total mass of their planetarysystem.",
+    "ai_generated_text": "close-in orbits. Conclusions: These findings support the trend that more massive protoplanetary disks around higher-mass stars promote the formation of massive planets at larger separations. Continued monitoring, complemented by astrometry and direct imaging, will refine mass estimates and orbital parameters, enabling a more complete picture of stellar mass–planet property correlations."
+  },
+  {
+    "id": 74,
+    "original_text": "argue thatthese differences result from differing abundances and excitation requirements.The CO(1-0) line is more optically thick and more biased towards warm gas thanthe H$_2$CO 6 cm line. On the other hand, formaldehyde is more easilyphotodissociated and is, therefore, a poorer tracer of the molecular gaslocated immediately behind Photon Dominated Regions.",
+    "ai_generated_text": "peaks observed at 1.2 mm. The velocity gradients and localized line broadening may hint at internal turbulence or early-stage gravitational contraction. These results contribute to a more complete picture of the physical environment in L1204, supporting its classification as a site of low-mass star formation in an early evolutionary phase."
+  },
+  {
+    "id": 75,
+    "original_text": "energetic treatments of common envelopeevolution. Their existence implies that major terms are missing from usualformulations of the energy budget for common envelope evolution. The mostplausible missing energy term is the energy released by recombination in thecommon envelope, and, indeed, a simple reformulation the energy budgetexplicitly including recombination resolves this issue.",
+    "ai_generated_text": "nebula morphologies. We also examine the dependence of final orbital separations on initial mass ratios and envelope binding energies. These results provide constraints on population synthesis models, helping to link observed close binaries, Type Ia supernova progenitors, and gravitational wave sources to their evolutionary histories through the common envelope phase."
+  },
+  {
+    "id": 76,
+    "original_text": "mobility epitaxialgraphene. It appears that the effect is suppressed due to absence of localizedstates in the bulk of the material.Epitaxial graphene can be patterned usingstandard lithography methods and characterized using a wide array oftechniques. These favorable features indicate that interconnected roomtemperature ballistic devices may be feasible for low dissipation high-speednanoelectronics.",
+    "ai_generated_text": "tunability of the electronic properties via growth parameters. This epitaxial system offers a scalable route to fabricating high-quality graphene structures directly on insulating substrates, enabling integration into high-frequency and optoelectronic devices. The interplay between substrate-induced perturbations and intrinsic graphene physics provides a versatile platform for fundamental studies and technological applications."
+  },
+  {
+    "id": 77,
+    "original_text": "100000 stars we show that the evolution of the core-radiusup to the end of the initial phase of core-collapse is not affected by theexact value of the primordial binary frequency (for frequencies of 10% orless). We discuss the ramifications of our results for the likely primordialbinary content of globular clusters.",
+    "ai_generated_text": "higher initial fractions generally leading to more robust survivability. We find that the retention of hard binaries is a key driver of long-term cluster evolution, influencing core collapse timescales and energy balance. These results provide constraints on interpreting observed binary fractions in star clusters and on inferring their dynamical histories."
+  },
+  {
+    "id": 78,
+    "original_text": "new algorithm, and the absence of any'R_{sep}' issue implies a good practical correspondence between parton andhadron levels. Relative to a midpoint cone, the use of an IR safe seedlessalgorithm leads to modest changes for inclusive jet spectra, mostly throughreduced sensitivity to the underlying event, and significant changes for somemulti-jet observables.",
+    "ai_generated_text": "evaluating jet energy resolution, stability under pile‑up conditions, and reconstruction efficiency for complex multi‑jet topologies. The results demonstrate that seedless cone methods can offer improved robustness and theoretical consistency while remaining computationally feasible for large datasets, providing a promising alternative for precision jet measurements in current and future collider experiments."
+  },
+  {
+    "id": 79,
+    "original_text": "to the scattering phasesin both the isoscalar and the isovector channels. Furthermore, we apply thesame approach to the treatment of the effect of the isotopic mass differencebetween the charged and neutral mesons and argue that the strong-scatteringeffects generally result in a modification to the pure kinematical effect ofthis mass difference.",
+    "ai_generated_text": "our results with existing experimental measurements. Our study highlights that neglecting the Coulomb–strong interplay can lead to systematic biases in extracting strong-interaction parameters from data. The formalism presented here can be extended to other heavy-meson systems, providing a unified approach to disentangling QCD and electromagnetic effects in threshold production processes."
+  },
+  {
+    "id": 80,
+    "original_text": "bounded by $ \\displaystyle{C\\cdot n^{(k_1+3)k_2}.} $ This generalizes to the general o-minimal setting,bounds of the same type proved in \\cite{BV} for semi-algebraic andsemi-Pfaffian families. One main technical tool used in the proof of the aboveresults, is a topological comparison theorem which might be of independentinterest in the study of arrangements.",
+    "ai_generated_text": "globally subanalytic sets. Applications include complexity estimates for solution sets of parameter-dependent polynomial systems and definable optimization problems. This framework unifies several earlier results and extends them to broader classes of definable sets, contributing to the understanding of tame behavior in real geometry and offering algorithmic tools for applied settings."
+  },
+  {
+    "id": 81,
+    "original_text": "large set of spinning systems, including those that occur inhigh spin theories. This may lead to new forms of string theory backgrounds aswell as to new methods for studying various corners of M theory. In this paperwe present the main concepts, and in a companion paper we give other details.",
+    "ai_generated_text": "manifestly Lorentz-covariant equations of motion and facilitates the identification of conserved quantities via simple geometric operations. This approach not only clarifies the role of spin in twistor theory but also opens new avenues for constructing scattering amplitudes, exploring supersymmetric extensions, and developing quantization schemes for spinning particles in four-dimensional spacetime."
+  },
+  {
+    "id": 82,
+    "original_text": "dwarf merger remnants may not be appropriate. Our results imply thatat least some products of double CO white dwarfs merger may be considered goodcandidates for the progenitors of Type Ia supernovae. In this case, thecharacteristic time delay between the initial dynamical merger and the eventualexplosion would be ~10^5 yr. (Abridged).",
+    "ai_generated_text": "long-term viscous evolution may drive further heating and nuclear burning. These results have implications for the progenitor scenarios of Type Ia supernovae and for understanding the diversity of observational signatures arising from double-degenerate mergers. Our findings highlight the sensitivity of ignition conditions to both mass ratio and initial spin states."
+  },
+  {
+    "id": 83,
+    "original_text": "gravito-electro-magnetic framework, we study thecorrections that this new term introduces to the acceleration of pointparticles and the frame-dragging effect in gyroscopic precession. We find thatthe Chern-Simons correction to these classical predictions could be used bycurrent and future experiments to place bounds on intrinsic parameters ofChern-Simons gravity and, thus, string theory.",
+    "ai_generated_text": "experiments or gyroscopic measurements. We discuss constraints from current astrophysical and Solar System tests, and outline regimes where the post-Newtonian corrections could be significant, particularly in systems with strong rotation or large-scale parity asymmetry. This framework provides a systematic approach for connecting theoretical predictions in Chern-Simons gravity to experimental observables."
+  },
+  {
+    "id": 84,
+    "original_text": "asymptotically normal. An iterative optimization routine is used which issufficiently fast for the user to analyze large data of high dimension withinseconds. Simulation experiments have provided strong evidence that corroborateswith the asymptotic theory. Application of the proposed procedure to the riveflow data of Iceland has yielded superior out-of-sample rolling forecasts.",
+    "ai_generated_text": "how the model yields interpretable projections while uncovering nonlinear effects that remain hidden in standard regression analysis. Our findings highlight the enduring relevance of the single-index model as a parsimonious yet powerful tool for modern data analysis, bridging the gap between statistical theory and practical implementation in complex, high-dimensional settings."
+  },
+  {
+    "id": 85,
+    "original_text": "These sources direct a UV light beam across the field of view ofthe fluorescence detectors; the phase function can be extracted from the imageof the shots in the fluorescence detector cameras. This paper describes thedesign, current status, standard operation procedure, and performance of theAPF system at the Pierre Auger Observatory.",
+    "ai_generated_text": "to below 10%. Furthermore, we evaluate the detector’s capability to measure the longitudinal shower profile, yielding insights into cosmic ray composition and the depth of shower maximum. This work underscores the critical role of fluorescence detection in advancing our understanding of the origin and nature of ultra-high energy cosmic rays."
+  },
+  {
+    "id": 86,
+    "original_text": "data, some periodic componentis not ruled out. The photometric variations are in good agreement withpredictions from simulations of binaries with orbital parameters similar tothose of UZ Tau E, suggesting that periodic accretion does occur fromcircumbinary disks, replenishing the inner disks and possibly extending thetimescale over which they might form planets.",
+    "ai_generated_text": "ratio and eccentricity, with higher eccentricities promoting more intermittent, clumpy inflow. These results have implications for disk evolution, planet formation in circumbinary systems, and the interpretation of time-variable accretion signatures in young binaries. Our study provides observational constraints and a theoretical framework for understanding mass transport across binary-induced disk gaps."
+  },
+  {
+    "id": 87,
+    "original_text": "the model does not destroy the connectedness of a growing networkso long as the increasing rate of edges is not excessively small. In addition,it is found that node deleting will weaken but not eliminate the small-worldeffect of a growing network, and generally it will decrease the clusteringcoefficient in a network.",
+    "ai_generated_text": "temporal perspectives, our work contributes a versatile tool for both explanatory and predictive network science, with potential applications in resilience analysis, information diffusion forecasting, and synthetic network generation for simulation studies. This integration of multiple growth processes represents a step toward more realistic and generalizable models of complex network evolution."
+  },
+  {
+    "id": 88,
+    "original_text": "a high incidence of mini double-lobe sources(or CSOs) in the PHJ sample. The sources J0323+0534, J1135-0021, J1352+0232,J2058+0540, J2123-0112 and J2325-0344 with measured redshift, showingdouble-lobe structure with sizes of <1 kpc, are classified as CSOs. Threesources J1057+0012, J1600-0037 and J1753+2750 are considered as core-jetsources according to their morphologies and flux variability.",
+    "ai_generated_text": "maps reveal steep-spectrum lobes and flatter-spectrum cores, permitting identification of active nuclei and hot spots. Conclusions: These VLBI results reinforce the view that GPS sources are crucial laboratories for studying AGN evolution, jet confinement, and interaction with the interstellar medium, and they provide constraints on source age and expansion speeds."
+  },
+  {
+    "id": 89,
+    "original_text": "thegalaxy weights and Malmquist bias. The combined, cosmological, supermassiveblack hole mass density is thus Omega_{bh, total} = (3.2+/-1.2) x 10^{-6} h_70.That is, using a new and independent method, we conclude that (0.007+/-0.003)h^3_{70} per cent of the universe's baryons are presently locked up insupermassive black holes at the centres of galaxies.",
+    "ai_generated_text": "black holes is consistent with expectations from the cumulative accretion history inferred from quasar luminosity functions. These results have implications for models of galaxy–black hole co-evolution, the interpretation of gravitational wave backgrounds from massive black hole mergers, and the planning of future surveys targeting dormant black holes in nearby galaxies."
+  },
+  {
+    "id": 90,
+    "original_text": "the field parameters as done in the modern effectivefield theory approach developed recently. The results are compared with theprevious calculations for the case of symmetric nuclear matter (SNM). Closedform analytical results are presented for the effective pion masses anddispersion relations by making hard nucleon loop (HNL) approximation andsuitable density expansion.",
+    "ai_generated_text": "correlated with the symmetry energy slope parameter. Our results provide quantitative predictions for pion spectral functions in ANM, offering a theoretical basis for interpreting experimental observables such as differential pion yields and collective flow asymmetries in isospin-rich environments. These findings are relevant for constraining the isovector sector of nuclear interactions."
+  },
+  {
+    "id": 91,
+    "original_text": "t2g - eg gap can be tailored judiciously by tuning Ticoncentrations to minimize thermal effects, which is often the major bottleneckto achieve high spin polarization at elevated temperatures in other materials.This study, thus, provides a novel but simple way to fabricate half-metallicityin ferromagnetic materials, which are potential candidates for spin-basedtechnology.",
+    "ai_generated_text": "the reliability of the computational approach. These findings provide insight into the microscopic mechanisms governing half metallicity, offering guidance for the design of spintronic materials with high Curie temperatures and tunable electronic properties. Our study underscores the potential of first-principles simulations in advancing functional magnetic materials for next-generation electronic devices."
+  },
+  {
+    "id": 92,
+    "original_text": "ofphytoplankton and zooplankton. Moreover, the spatiotemporal chaos arising fromthe far-field breakup of spiral waves does not gradually involve the wholespace within that region. Our results are confirmed by means of computationspectra and nonlinear bifurcation of wave trains. Finally, we give someexplanations about the spatially structured patterns from the community level.",
+    "ai_generated_text": "epidemic spread, and ecological resilience. The study also outlines potential applications to conservation planning, suggesting that spatially explicit management strategies can leverage naturally arising patterns to enhance system stability. This research deepens the theoretical foundation for spatial ecology and underscores the importance of integrating spatial heterogeneity into predictive ecological models."
+  },
+  {
+    "id": 93,
+    "original_text": "spectralinstabilities for the high energies of these operators, in some regions whichcan be far away from their spectra. We give a precise geometrical descriptionof them, which explains the results obtained for these operators in somenumerical simulations giving the computation of false eigenvalues far fromtheir spectra by algorithms for eigenvalues computing.",
+    "ai_generated_text": "how non-selfadjointness amplifies spectral instability in partial differential equations, with potential applications to fluid dynamics, wave propagation in complex media, and control theory. The techniques presented combine complex WKB methods, contour deformation in phase space, and refined energy estimates, offering a robust framework for future studies in non-Hermitian semiclassical analysis."
+  },
+  {
+    "id": 94,
+    "original_text": "theinvolvement of a recursivity postulate leading to a logarithmic function.Generalizations, including Mathai's generalized entropy are introduced and someof the properties are examined. Situations are examined where Mathai's entropyleads to pathway models, exponential and power law behavior and relateddifferential equations. Connection of Mathai's entropy to Kerridge's measure of\"inaccuracy\" is also explored.",
+    "ai_generated_text": "examples illustrate how parameter choices recover the classical case or yield novel scaling behaviors. The study highlights the interplay between independence assumptions, entropy generalization, and the modeling of real-world phenomena with anomalous statistics, providing a unified perspective that bridges rigorous probabilistic foundations with practical modeling needs in diverse scientific domains."
+  },
+  {
+    "id": 95,
+    "original_text": "the fractionalreaction-diffusion equation containing this derivative includes the fundamentalsolution for space-time fractional diffusion, which itself is a generalizationof neutral fractional diffusion, space-fractional diffusion, andtime-fractional diffusion. These specialized types of diffusion can beinterpreted as spatial probability density functions evolving in time and areexpressible in terms of the H-functions in compact form.",
+    "ai_generated_text": "classical models and experimentally observed nonlocal or non-Markovian behaviors. Numerical simulations are presented to validate the analytical findings and to illustrate the influence of fractional parameters on concentration profiles over time. The results have potential applications in fields such as porous media transport, biological pattern formation, and chemical engineering processes."
+  },
+  {
+    "id": 96,
+    "original_text": "analysis suggests that: (i) the inverse square law ofgravity may itself be due to the conservation of energy at the boundary betweena four-dimensional universe and a fifth large-scale space-time dimension; and(ii) there is a limiting case for the Tulley-Fisher relationship linking thespeed of light to the mass of the Universe.",
+    "ai_generated_text": "highlighting potential links to dark matter phenomena and anomalous spacecraft trajectories. While the framework remains consistent with existing empirical constraints, it offers novel avenues for experimental validation through precision astrometry and deep-space mission tracking. This work thus refines the fifth-dimensional orbital model and outlines prospective tests for its physical relevance."
+  },
+  {
+    "id": 97,
+    "original_text": "of this descriptorhas been successfully tested on the selected systems and reactions.Corresponding force profiles are also analyzed in some representative cases.Also, to study the intra- and intermolecular reactivities another relateddescriptor namely, the nucleophilicity excess (DelW-+) for a nucleophile, overthe electrophilicity in it has been defined and tested on all-metal aromaticcompounds.",
+    "ai_generated_text": "hotspots. The results highlight that incorporating local philicity into reactivity modeling enhances both qualitative understanding and quantitative prediction of chemical behavior, particularly in systems where electronic effects are highly localized or non-uniform. This work underscores the applicability of Chattaraj’s concept to diverse chemical domains, bridging theoretical insight with experimental relevance."
+  },
+  {
+    "id": 98,
+    "original_text": "friction domain appears (0.01 <$\\mu$ < 0.05), located a few nanometers below the surface of the tribofilm.This low friction coefficient is attributed to the presence of MoS2 planessliding over each other in a favourable configuration obtained when thepressure is sufficiently high, which is made possible by the presence of ZDTP.",
+    "ai_generated_text": "model in which ZDDP-derived tribofilms adapt their mechanical response to fluctuating contact conditions, thereby enhancing durability and reducing material loss. This study provides new insight into the interplay between microstructural evolution and functional performance of anti-wear films, with implications for the design of next-generation lubricant additives in high-performance mechanical systems."
+  },
+  {
+    "id": 99,
+    "original_text": "the theoremcan be obtained without functional constraints on the class of the initialdistribution functions. Possible realizations of the theory and asymptoticapproximations are provided which permit to determine the fluid equations\\textit{with prescribed accuracy.} As a result, asymptotic accuracy estimatesof customary LB approaches and comparisons with the Chorin artificialcompressibility method are discussed.",
+    "ai_generated_text": "at high Reynolds numbers. The study also explores extensions to multiphase and thermal flows, illustrating the flexibility of LB methods while noting limitations in certain parameter ranges. Our findings contribute to a more unified understanding of LB methodologies and provide guidelines for their reliable application in engineering and scientific computations."
+  },
+  {
+    "id": 100,
+    "original_text": "show that, forthermal atomic cesium with temperature in the range from 100 $\\mu$K to 400$\\mu$K in the vicinity of a silica surface with temperature of 300 K, theadsorption (free-to-bound decay) rate is about two times larger than theheating (free-to-free upward decay) rate, while the cooling (free-to-freedownward decay) rate is negligible.",
+    "ai_generated_text": "reveal the influence of surface material properties, phonon dispersion relations, and temperature on the transition dynamics, and provide a framework for predicting decoherence times relevant to surface-bound atoms in quantum sensing and nanomechanical systems. This approach is broadly applicable to atom–surface interaction studies in condensed matter and quantum optics contexts."
+  },
+  {
+    "id": 101,
+    "original_text": "the north of the corethese lines were much weaker. Fitting the spectra with an absorbed thin-thermalplasma model showed kT~0.2, 0.6 keV and NH~1-2e21 cm-2 with a factor of 2-3abundance variation in oxygen, magnesium, silicon and iron. The plasma mightoriginate from an old supernova, or a super shell of multiple supernovae.",
+    "ai_generated_text": "wind activity from the numerous O-type and Wolf–Rayet stars versus remnant supernova shocks in powering the observed emission. Our results highlight the Carina nebula as a benchmark for understanding feedback processes in massive star-forming regions and provide constraints on the energy budget and chemical enrichment of the surrounding interstellar medium."
+  },
+  {
+    "id": 102,
+    "original_text": "a statistical investigation of the Trojans's spectra propertydistributions as a function of their orbital and physical parameters, and incomparison with other classes of minor bodies in the outer Solar System.Trojans at lower inclination appear significantly bluer than those at higherinclination, but this effect is strongly driven by the Eurybates family.",
+    "ai_generated_text": "spectral slope, albedo, and orbital parameters, and interpret the observed diversity in the context of capture scenarios and subsequent surface evolution. These results provide new constraints on the origin and collisional history of Jupiter Trojans, and highlight the importance of family-level studies for disentangling primordial composition from space weathering effects."
+  },
+  {
+    "id": 103,
+    "original_text": "asymmetric two-sided morphology on a scale of several hundred parsecs,extending in two different directions, may suggest intermittent activity. Theyoung age and compact structure of 1045+352 is consistent with the evolutionscenario of BAL quasars. It has also been confirmed that the submillimetre fluxof 1045+352 can be seriously contaminated by synchrotron emission.",
+    "ai_generated_text": "morphology and spectral characteristics, with some evidence for recurrent jet activity or intermittent fueling. These results contribute to a more complete statistical characterization of CSS sources, offering insights into their role in the early stages of radio source evolution and the impact of environmental factors on AGN growth and morphology."
+  },
+  {
+    "id": 104,
+    "original_text": "relaxation process which is revealed by stepwise change of relaxingmechanical moment. These investigations showed that the time for formatting ofAbrikosov vortex lattice in HoBa2Cu3O7-d is of the order of 20 microsec. whichon the order of value exceeds the time necessary for formation of a singlevortex observed in type II superconductors.",
+    "ai_generated_text": "with a distribution of pinning energies and collective vortex creep processes. The findings contribute to a deeper understanding of dissipative mechanisms in type-II superconductors and may inform the design of materials with optimized pinning for high-current applications. This work demonstrates the efficacy of mechanical methods for precise vortex dynamics characterization."
+  },
+  {
+    "id": 105,
+    "original_text": "distant to draw any conclusion basedsolely on kinematics. Comparing our trigonometric parallaxes with photometricparallaxes used in previous work reveals an overestimation of distance asderived from photometric techniques. This new data set can be used to revisethe halo white dwarf space density, and that analysis will be presented in asubsequent publication.",
+    "ai_generated_text": "reassessment reduces the estimated local density of halo white dwarfs and challenges earlier suggestions that they contribute substantially to the dark matter budget. We discuss the methodological sensitivities underlying these conclusions and outline priorities for future surveys to better constrain the faint end of the halo white dwarf luminosity function."
+  },
+  {
+    "id": 106,
+    "original_text": "the bar-modedeformation. While the overall trends reported in an earlier investigation areconfirmed by our work, we also find that numerical resolution plays animportant role during the long-term, nonlinear behaviour of the instability,which has implications on the dynamics of rotating stars and on the attainableamplitudes of the associated gravitational wave signals.",
+    "ai_generated_text": "revealing a transition from transient bar-like oscillations to long-lived triaxial configurations. These results have direct implications for the evolution of nascent neutron stars, merger remnants, and other astrophysical systems where differential rotation is expected to be prominent, and they underscore the need to revise stability criteria beyond uniform rotation assumptions."
+  },
+  {
+    "id": 107,
+    "original_text": "constant influx of defectors sustainscooperation. Further exploring the phase space of the repeated prisoner'sdilemma and also of the \"rock-paper-scissor\" game we find indications of richstructure and are able to reproduce several effects observed in other modelswith explicit spatial embedding, such as the maintenance of biodiversity andthe emergence of global oscillations.",
+    "ai_generated_text": "changes in connectivity yield sharp transitions between cooperation-dominated and defection-dominated states. These findings provide insight into the design of interaction structures that promote desirable collective behaviors, with implications for social policy, epidemiology, and distributed computing systems. The framework also offers a bridge between spatial evolutionary game theory and network science."
+  },
+  {
+    "id": 108,
+    "original_text": "the decrease of an average Alfven speed as faras the inhomogeneous loop is denser at its footpoints. The derived dispersionrelations and wave profiles are important for potential observations oftorsional oscillations which result in periodic variations of spectral linewidths. Torsional oscillations offer an additional powerful tool for adevelopment of coronal seismology.",
+    "ai_generated_text": "of longitudinal density structuring in coronal loops, potentially enabling constraints on heating and mass transport processes. The study also highlights the importance of accounting for density variations in interpreting observed oscillation signatures from high-resolution solar missions, as neglecting such effects may lead to systematic errors in inferred magnetic field strengths."
+  },
+  {
+    "id": 109,
+    "original_text": "that oftheir rate-1/3 parent codes. Furthermore, we compare analytic results tosimulations and we demonstrate that their performance converges towards theerror floor region, owning to the moderate puncturing of their systematicoutput. Consequently, we propose pseudo-random puncturing as a means ofimproving the bandwidth efficiency of a PCCC and simultaneously lowering itserror floor.",
+    "ai_generated_text": "latency. The proposed coding scheme is evaluated in terms of hardware resource requirements and throughput, revealing significant savings in encoder complexity and memory usage. These findings suggest that partially systematic PCCCs present a viable alternative to conventional turbo codes, particularly in applications requiring efficient error protection with constrained computational budgets."
+  },
+  {
+    "id": 110,
+    "original_text": "peculiar temperature behavior, whichhas so far not been observed in any other (TMTSF)2X salt showing ametal-insulator transition. A qualitative model based on the coupling betweenthe TMTSF molecule vibration and the reorientation of electrical dipole momentof the FSO3 anion is proposed, in order to explain the anomalous behavior ofthe new mode.",
+    "ai_generated_text": "electron–phonon coupling in the ordered state. Analysis using Kramers–Kronig transformations and model fits suggests that the observed optical response reflects both collective excitations of the charge-density-wave condensate and localized intramolecular vibrations. These results provide detailed insight into the interplay of low-dimensional electronic transport, lattice dynamics, and correlation effects in (TMTSF)\\(_2\\)SO\\(_3\\)."
+  },
+  {
+    "id": 111,
+    "original_text": "of the fact that the momentumexpectation value is real. We comment briefly on the status of the angularvariables in quantum mechanics and the problems related in interpreting them asdynamical variables. At the end, we calculate the Heisenberg's equation ofmotion for the radial component of the momentum for the Hydrogen atom.",
+    "ai_generated_text": "guarantee self-adjointness. Furthermore, we discuss implications for the separation of variables in the Schrödinger equation, the construction of spherical harmonics, and the treatment of radial wavefunctions. This detailed formulation provides a more transparent framework for quantum systems with spherical symmetry and clarifies often-overlooked aspects of operator representation in non-Cartesian coordinates."
+  },
+  {
+    "id": 112,
+    "original_text": "to 1850 K. In order to model these new results,some improvements have been made to a mechanism previously developed in ourlaboratory for the reactions of C3-C4 unsaturated hydrocarbons. The mainreaction pathways of consumption of allene and propyne and of formation of C6aromatic species have been derived from flow rate analyses.",
+    "ai_generated_text": "rings and soot inception. Comparative analysis between allene and propyne flames revealed subtle differences in intermediate distributions, linked to their distinct molecular structures and initial decomposition pathways. This work contributes to a deeper understanding of rich flame chemistry and offers valuable data for validating combustion models relevant to pollutant formation."
+  },
+  {
+    "id": 113,
+    "original_text": "involve the application of a varietyof martingale techniques--most importantly a ``spine'' construction involving achange of measure with an additive martingale. In addition to the model'sintrinsic interest, the methodologies presented contain ideas that will adaptto other branching settings. We also briefly discuss applications to travelingwave solutions of an associated reaction--diffusion equation.",
+    "ai_generated_text": "identify conditions under which it converges to the stationary measure of the underlying type Markov chain. These results generalize earlier low-temperature analyses and provide a rigorous probabilistic description of the high temperature regime, with potential applications to models of population genetics, ecological dispersal, and multi-type particle systems in random environments."
+  },
+  {
+    "id": 114,
+    "original_text": "emulsion are presented as example of more complicatedsystem. The momentum and correlation characteristics of $\\alpha$ particles forthe $^{14}$N$\\to3\\alpha+X$ channel in the laboratory system and the restsystems of 3$\\alpha$ particles were considered in detail. Topology of charged fragments produced in peripheral relativisticdissociation of radioactive $^8$B, $^7$Be nuclei in emulsion is studied.",
+    "ai_generated_text": "of nuclear clustering, offering constraints for theoretical descriptions based on few-body approaches and cluster models. The overview underscores the continued relevance of nuclear track emulsion as a versatile and precise method for studying rare fragmentation channels, especially in the regime where relativistic energies probe both nuclear structure and reaction mechanisms."
+  },
+  {
+    "id": 115,
+    "original_text": "to constrain further thefour-neutrino model parameter space. Our results hold for any value of$\\Dmq_\\Sbl \\gtrsim 0.1 \\eVq$, \\textit{i.e.} when oscillations driven by thismass-squared difference are averaged. We have also checked that the bound on$\\theta_{13}$ that can be put at the CNGS is not affected by the possibleexistence of sterile neutrinos.",
+    "ai_generated_text": "particularly on large-mixing regimes excluded by null appearance signals. We discuss the interplay between CNGS limits and those from other accelerator and reactor experiments, highlighting the role of high-energy ν_τ detection in reducing parameter degeneracies. This work demonstrates the relevance of CNGS data in global fits of sterile neutrino models."
+  },
+  {
+    "id": 116,
+    "original_text": "multipole, and to the leading post-Newtonian order, weshow that there does not exist an analog of the Carter constant for such asystem (except for the cases of spin and mass quadrupole). With mild additionalassumptions, this result falsifies the conjecture that all vacuum, axisymmetricspacetimes posess a third constant of geodesic motion.",
+    "ai_generated_text": "flux depending on the relative orientation of the orbit with respect to the symmetry axis. Our findings have direct applications to the modeling of extreme mass-ratio inspirals into rotating, deformed compact objects, and to the interpretation of gravitational wave signals in scenarios where deviations from spherical symmetry are dynamically relevant."
+  },
+  {
+    "id": 117,
+    "original_text": "on the structural properties of the cortical networks. The brainnetworks' structural decay is in most respects similar to that of scale-freenetworks. The results implicate highly connected hub-nodes and bottleneckconnections as structural basis for some of the conditional robustness of brainsystems. This informs the understanding of the development of brain networks'connectivity.",
+    "ai_generated_text": "understanding of brain computation. Ultimately, elucidating the structural substrates of cognition may guide the development of targeted interventions for neurological and psychiatric disorders, and inspire the design of neuromorphic systems in artificial intelligence. This structural-functional framework underscores the central role of anatomy in decoding the principles governing complex brain dynamics."
+  },
+  {
+    "id": 118,
+    "original_text": "in conjunction with known uniqueness results for SRBMs, to give somesufficient conditions for validating approximations involving (i) SRBMs inconvex polyhedrons with a constant reflection vector field on each face of thepolyhedron, and (ii) SRBMs in bounded domains with piecewise smooth boundariesand possibly nonconstant reflection vector fields on the boundary surfaces.",
+    "ai_generated_text": "moments of the stationary distribution. Applications include performance analysis of multiclass queueing networks under heavy traffic approximations and the assessment of regulated financial processes subject to solvency constraints. Our results highlight the interplay between geometric boundary structure and stochastic dynamics, offering new insights into constrained diffusion models in applied probability."
+  },
+  {
+    "id": 119,
+    "original_text": "tip-tip and body-body collisions can providea good condition and sensitive probe to study the nuclear EoS, respectively.The Cooling Storage Ring (CSR) External Target Facility (ETF) to be built atLanzhou, China, delivering the uranium beam up to 520 MeV/nucleon is expectedto make significant contribution to explore the nuclear equation of state(EoS).",
+    "ai_generated_text": "observables, suggesting configuration-dependent signatures in experimental measurements. These findings highlight the importance of event-shape selection in relativistic heavy-ion experiments for probing high-density QCD matter and exploring possible phase transitions. The study demonstrates that ART1.0 provides a robust framework for disentangling geometric effects from intrinsic nuclear matter properties in deformed-nucleus collisions."
+  },
+  {
+    "id": 120,
+    "original_text": "by the accretion disk into our line of sight.In addition, we have discovered three new mid-infrared sources, which arespatially coincident with the previously known dense core in CB54. The sourcetemperatures ($\\sim100$K) and association of the mid-infrared sources with thedense core suggests that these mid-infrared objects may be embedded class 0protostars.",
+    "ai_generated_text": "between dust geometry and AGN outflows. Our results demonstrate the diagnostic power of mid-infrared imaging for probing sub-arcsecond scale structures in AGN, providing constraints on torus models and feedback processes. These findings contribute to a more comprehensive picture of dust distribution and heating in the central regions of active galaxies."
+  },
+  {
+    "id": 121,
+    "original_text": "thoseof the expansion matrix S_{ij}, providing us with three preferred spacelikedirections of the spacetime. Similar results are also obtained when relaxingthe twistfree condition and assuming instead that \\Phi_{ij} is symmetric. Then=5 Myers-Perry black hole and Kerr-NUT-AdS metrics in arbitrary dimension arebriefly studied as specific examples of type D vacuum spacetime.",
+    "ai_generated_text": "The results provide a sharp characterization of the algebraic possibilities for static gravitational fields in dimensions greater than four, clarifying the interplay between staticity and Weyl tensor symmetries. Potential applications include simplifying classification schemes for numerical relativity in higher dimensions and constraining candidate metrics in the search for exact solutions."
+  },
+  {
+    "id": 122,
+    "original_text": "in the planetary mass regime, and an orbital semi-major axis of 1.76 AU.The orbit of the planet has an eccentricity of e=0.4. The planet discoveryaround the young star HD 70573 gives an important input for the study of debrisdisks around young stars and their relation to the presence of planets.",
+    "ai_generated_text": "orbital period implies a semi-major axis of ~1.8 AU, providing a valuable case for studying giant planet formation and evolution in young systems. HD70573 b offers an important benchmark for testing models of early dynamical evolution and atmospheric properties of massive planets in the first hundred million years after formation."
+  },
+  {
+    "id": 123,
+    "original_text": "the representations of an SU(5) model into their Standard Modelcontent. In this paper we continue that discussion to show how a geometricallyengineered 16 of SO(10) can be unfolded into the Standard Model, and how thethree families of the Standard Model uniquely emerge from the unfolding of asingle, isolated E8 singularity.",
+    "ai_generated_text": "gauge groups and matter representations not accessible in the earlier approach. Several examples are provided to illustrate the method, including configurations relevant to phenomenological model building. The results deepen the connection between singularity theory, moduli spaces, and low-energy physics, and open new avenues for constructing realistic models from higher-dimensional theories."
+  },
+  {
+    "id": 124,
+    "original_text": "the source did also vary during theobservation but only by 20--30%. For Cyg X-1, the absorption lines aregenerally attributed to the absorption of X-rays by ionized stellar wind in thebinary system. Therefore, they may provide valuable diagnostics on the physicalcondition of the wind. We discuss the implications of the results.",
+    "ai_generated_text": "previous *Chandra* observations suggests variability in wind density and ionization on timescales of months to years. These results demonstrate the capability of HETGS spectroscopy to disentangle the interplay between accretion processes and massive star winds in high-mass X-ray binaries, and provide constraints for future models of wind-fed black hole accretion."
+  },
+  {
+    "id": 125,
+    "original_text": "gain a comprehensive understanding of the natureof planetary systems, which is needed to understand planet formation andhabitability. The proposed Microlensing Planet Finder (MPF) mission is anexample of a space-based microlensing survey that can accomplish theseobjectives with proven technology and a cost that fits comfortably under theNASA Discovery Program cost cap.",
+    "ai_generated_text": "planet formation theories. Additionally, the simultaneous measurement of parallax effects from space and ground observatories will yield accurate lens mass and distance determinations. This comprehensive inventory will inform models of planetary system architectures and the prevalence of potentially habitable worlds, advancing our understanding of planetary demographics on a Galactic scale."
+  },
+  {
+    "id": 126,
+    "original_text": "a significant probability (25%) that at least one pair of low-massassociation members will be separated in projection by <15\", so analysis of thewide binary population in Upper Sco will require a systematic search for allwide systems; the detection of another such pair would represent an excess atthe 98% confidence level.",
+    "ai_generated_text": "dynamical disruption longer than in dense star-forming regions. These observations strengthen the case for USco160611.9-193532 AB as a bona fide young binary, contributing to empirical constraints on multiplicity statistics and mass ratios at low masses during early stellar evolution. Follow-up astrometric monitoring will enable orbital characterization and dynamical mass determination."
+  },
+  {
+    "id": 127,
+    "original_text": "with recent analyses of pulsar RMs alone,in which the fourth-quadrant field was presumed to be directedcounter-clockwise in the Sagittarius- Carina arm. Also in contrast to recentpulsar RM studies, our joint modeling of pulsar and extragalactic RMsdemonstrates that large numbers of large-scale magnetic field reversals are notrequired to account for observations.",
+    "ai_generated_text": "inclusion of our dataset refines constraints on both the pitch angle and symmetry of the spiral field. These results demonstrate the value of dense RM sampling near the plane for disentangling large-scale structure from localized features, and provide an essential input for future high-resolution magneto-ionic maps of the Milky Way."
+  },
+  {
+    "id": 128,
+    "original_text": "involve the control.When the entanglement increases, the map that describes the change of the stateof the two entangled qubits is not completely positive. Combination of twoindependent interactions that individually give exponential decay of theentanglement can cause the entanglement to not decay exponentially but,instead, go to zero at a finite time.",
+    "ai_generated_text": "transfer correlations from the ancilla to the untouched qubit via the shared entangled state. Our results provide a pedagogical illustration of the subtleties in the theory of local operations and classical communication (LOCC) when ancillary degrees of freedom are present, and suggest experimental implementations in photonic and superconducting qubit architectures."
+  },
+  {
+    "id": 129,
+    "original_text": "but has a range of temperaturesaccording to distance. We discuss this disk in the context of known disks inthe TW Hydrae Association and around low-mass stars; a comparison of masses ofdisks in the TWA reveals no trend in mass or evolutionary state (gas-rich vs.debris) as a function of spectral type.",
+    "ai_generated_text": "of roughly 100 AU. Our results add to the growing evidence that low-mass stars can retain significant amounts of cold dust well after the dispersal of their primordial gas, and highlight TWA 7 as a valuable target for future high-resolution submillimetre imaging to probe disc structure and planet formation potential."
+  },
+  {
+    "id": 130,
+    "original_text": "well and the approach yields reasonable values for the colorcorrection factor. For comparison, we have also attempted to fit the spectrawith other models. We show that even the high-soft-state continuum (which isdominated by the disk emission) cannot be satisfactorily fitted bystate-of-the-art disk models. We discuss the implication of the results.",
+    "ai_generated_text": "emphasizing the need for cross-mission spectral consistency. Our results underscore that robust measurement of black hole properties requires a holistic approach combining spectral, timing, and polarization diagnostics, alongside physically motivated disk-corona models, to minimize systematic errors and achieve reliable constraints on the nature of accreting black holes in X-ray binaries."
+  },
+  {
+    "id": 131,
+    "original_text": "and indicates that good approximation algorithmsare unlikely to exist. Specifically, we give two applications by showing that:1) finding statistically significant biclusters in the SAMBA model, proposed in\\cite{Tan02} for the analysis of microarray data, is$n^{\\epsilon}$-inapproximable; and 2) no polynomial time algorithm exists forthe Minimum Description Length with Holes problem \\cite{Bu05} unless$\\mathsf{RP=NP}$.",
+    "ai_generated_text": "dynamics in social bipartite systems and bipartite recommendation scenarios with reinforcing and repelling preferences. Empirical evaluation on synthetic and real-world datasets demonstrates that our methods achieve near-optimal performance while capturing nuanced structural patterns induced by signed interactions. These results open avenues for deeper theoretical exploration of signed bipartite optimization frameworks."
+  },
+  {
+    "id": 132,
+    "original_text": "of the soft excess emission are consistent with the non-thermalinterpretation. While the high density of relativistic electrons associatedwith the peak of the soft emission in the cluster centre might have beenprovided by an active galactic nucleus in the central cD galaxy, the underlyingpopulation might have been accelerated in diffuse shocks.",
+    "ai_generated_text": "merger activity. We also place limits on possible non-thermal X-ray emission, finding no statistically significant excess above the thermal model. These results refine our understanding of the interplay between cooling, feedback, and enrichment in moderately relaxed clusters, and demonstrate the power of combining Suzaku and XMM-Newton observations for ICM studies."
+  },
+  {
+    "id": 133,
+    "original_text": "Gas with Z >=10^-3 Zsolar is able to cool to the temperature of the CMB, which sets a lowerlimit to the minimum fragmentation mass. This suggests that the secondgeneration stars produced a spectrum of lower mass stars, but were still moremassive on average than stars formed in the local universe.",
+    "ai_generated_text": "shear or feedback-driven turbulence, may regulate the dominant star formation mode. Our results provide a theoretical framework for connecting observed variations in stellar populations across different galactic environments to underlying physical thresholds in cloud dynamics. Further work will explore the robustness of this transition under varying metallicity and feedback prescriptions."
+  },
+  {
+    "id": 134,
+    "original_text": "Normal GCs in the outer halo share their kinematicproperties with the extended HB GCs, which is consistent with the accretionorigin. Our result further suggests heterogeneous origins of GCs, and weanticipate this to be a starting point for more detailed investigations ofMilky Way formation, including early mergers, collapse, and later accretion.",
+    "ai_generated_text": "structural parameters, such as cluster mass and central concentration, correlate with HB extent, supporting scenarios in which deeper potential wells facilitate retention of enriched material. These findings strengthen the case for complex formation pathways in a subset of Milky Way GCs, with implications for their early dynamical and chemical evolution."
+  },
+  {
+    "id": 135,
+    "original_text": "moving H.Therefore, the conclusion of [8] that REESSE1+ is not secure at all (whichconnotes that [8] can extract a related private key from any public key inREESSE1+) is fully incorrect, and as long as the parameter Omega is fitlyselected, REESSE1+ with Cx = Ax * W^f(x) (% M) is secure.",
+    "ai_generated_text": "presumed in applied settings, thus requires additional constraints beyond those given in [8]. This analysis clarifies theoretical boundaries, refines the scope of theorem 1, and provides a methodological template for testing necessity claims in related mathematical statements. The results invite re-examination of similar conditions across operator theory and nonlinear analysis."
+  },
+  {
+    "id": 136,
+    "original_text": "skeletons;there is no specific direction on the surface. In addition to the three phasesmentioned above, a collapsed phase is expected to exist in the low bendingrigidity regime that was not studied here. The inhomogeneous structure and thefluidity of vertices are considered to be the origin of such variety of phases.",
+    "ai_generated_text": "results reveal that topological fluidity facilitates shape transformations without defect accumulation, and that phase boundaries correspond to distinct scaling behaviors in the fluctuation spectra. This study provides insight into the phase structure of flexible membranes and may inform the design of synthetic vesicles or tubular nanostructures with tunable mechanical properties."
+  },
+  {
+    "id": 137,
+    "original_text": "vortex density on the fractaldimension of the cluster boundary as well as the resistance on the transportcurrent are obtained. It is revealed that a mixed state of the vortex glasstype is realized in the superconducting system involved. The current-voltagecharacteristics of superconductors containing fractal clusters are obtained andtheir features are studied.",
+    "ai_generated_text": "These results suggest that controlling the fractal characteristics of normal-phase inclusions—through material processing or growth conditions—offers a viable route to optimize pinning efficiency in high-temperature superconductors. The work provides insight into how complex geometrical features in heterogeneous superconducting media can be exploited to tailor macroscopic electrodynamic properties for technological applications."
+  },
+  {
+    "id": 138,
+    "original_text": "we extract an evidence of this lowering for the first time. We alsoquantify the fusion-evaporation enhancement due to gamma-ray emission from thepre-equilibrium GDR. This cooling mechanism along the fusion path may besuitable to synthesize in the future super heavy elements using radioactivebeams with strong N/Z asymmetries in the entrance channel.",
+    "ai_generated_text": "equilibration is often delayed until after the system crosses the conditional saddle point. These findings provide insight into the competition between fusion and quasi-fission channels in heavy-ion reactions, offering predictive capability for synthesis of superheavy nuclei and improved modeling of reaction cross sections at energies close to the Coulomb barrier."
+  },
+  {
+    "id": 139,
+    "original_text": "the algorithmruns in factorial time in the worst case, we propose a heuristic algorithm thatruns in polynomial time. The heuristic algorithm outputs an optimal route whenthe nodes transmit independent codewords. We implement these coding strategiesusing practical low density parity check codes to compare the performance ofthe strategies on different routes.",
+    "ai_generated_text": "based on instantaneous channel state information, yielding notable performance gains in heterogeneous environments. Our findings provide insights into the design of practical cooperative protocols that balance complexity and efficiency, and they offer guidelines for optimizing relay-assisted wireless networks in emerging applications such as IoT, vehicular communication, and next-generation cellular systems."
+  },
+  {
+    "id": 140,
+    "original_text": "of the populationdensities. The oscillations are associated with limit cycles and arise througha Hopf bifurcation. They are stable against changes in the initial conditionsand, in this sense, they differ from the Lotka-Volterra cycles which depend oninitial conditions. In this respect, the present model is biologically morerealistic than the Lotka-Volterra model.",
+    "ai_generated_text": "regions where mean-field theories predict extinction. Pattern formation, including traveling waves and patchy distributions, arises naturally from local interactions and finite-size effects. Our findings highlight the importance of spatially explicit stochastic models in understanding ecological dynamics and provide a framework for exploring the resilience of predator-prey systems under environmental variability."
+  },
+  {
+    "id": 141,
+    "original_text": "long-period IPs conserve their magnetic moment as they evolve towardsshorter orbital periods. Therefore the dominant population of long-period IPs,which have white dwarf spin periods roughly ten times shorter than theirorbital periods, will likely end up as short-period IPs like SDSS J2333, withspin periods a large fraction of their orbital periods.",
+    "ai_generated_text": "with variations in accretion rate and magnetospheric radius. These results refine empirical relations between spin-to-orbital period ratios and magnetic field strength, offering new constraints on evolutionary pathways from non-magnetic cataclysmic variables to polars. This work underscores the importance of coordinated multi-wavelength monitoring for disentangling the complex accretion dynamics in IPs."
+  },
+  {
+    "id": 142,
+    "original_text": "that P \\neq NP. Article proves also that result of relativisation of P=NP question and oracleshown by Baker-Gill-Solovay distinguish between deterministic andnon-deterministic calculation models. If there exists oracle A for whichP^A=NP^A then A consists of infinite number of algorithms, DTMs, axioms andpredicates, or like NDTM infinite number of simultaneous states.",
+    "ai_generated_text": "sentences are decided. We discuss the implications for model theory, categoricity, and the role of completeness in algebraic logic. The findings clarify the distinction between semantic completeness of logic itself and the completeness of a particular first-order theory, providing insight into the expressive limits of Boolean algebra in Gödel’s framework."
+  },
+  {
+    "id": 143,
+    "original_text": "gradient perpendicular to thelarge-scale outflow. Since this velocity structure comprises three of thecentral protostellar sources, this is not a Keplerian disk. While the data areconsistent with a gas core that may rotate and/or collapse, we cannot excludethe outflow(s) and/or nearby expanding UCHII region as possible alternativecauses of this velocity pattern.",
+    "ai_generated_text": "and turbulence. These results provide constraints on the timing and efficiency of molecular synthesis during massive star birth, offering a benchmark for astrochemical models and guiding future multiwavelength studies of hot core evolution. --- Would you like me to also produce a **shorter, 100-word version** optimized for arXiv submission guidelines?"
+  },
+  {
+    "id": 144,
+    "original_text": "reduced, which reflects the internal dynamics of thefractionally charged excitations. By using an additional parameter, wefine--tune the system to a special point at which fractional charges aremanifestly deconfined--the so--called Rokhsar--Kivelson point. For a deeperunderstanding of the low--energy physics of these models and for numericaladvantages, several conserved quantum numbers are identified.",
+    "ai_generated_text": "next-nearest-neighbor hopping and weak disorder, finding robust fractionalization within a finite parameter regime. Our results highlight the potential for realizing fractionalized fermionic excitations in experimentally relevant systems, including cold atom setups and engineered electronic lattices, and provide insight into the broader class of frustration-driven correlated phases with emergent topological properties."
+  },
+  {
+    "id": 145,
+    "original_text": "properly selecting routes near thegateway (or by properly positioning the relay nodes leading to the gateway) tofashion after the structure of canonical networks, the throughput can beimproved significantly by more than 150%. Indeed, in a dense network, it isworthwhile to deactivate some of the relay nodes near the sink judiciously.",
+    "ai_generated_text": "of channel access. Practical implications are discussed in terms of network design, including optimal placement of relay nodes, channel assignment strategies, and scheduling policies to mitigate congestion near aggregation points. The findings provide a rigorous framework for predicting and optimizing throughput in multi-hop IEEE 802.11 deployments under many-to-one communication patterns."
+  },
+  {
+    "id": 146,
+    "original_text": "by exhibiting their different temperature dependences.The commensurate-to-incommensurate phase transition around 24 K is attributedto discommensuration through phase slipping of the magnetic orders in spinfrustrated geometries. We proposed that the low temperature incommensuratephase consists of the commensurate magnetic domains separated by anti-phasedomain walls which reduce spontaneous polarizations abruptly at the transition.",
+    "ai_generated_text": "and provide quantitative insight into the resonant scattering cross-sections for different electronic shells. This work establishes a comprehensive scattering-based framework for disentangling the contributions of transition-metal and rare-earth elements to complex order parameters in correlated oxides, offering a pathway toward tuning multiferroic properties via targeted elemental substitution and strain engineering."
+  },
+  {
+    "id": 147,
+    "original_text": "result can berefered to a relatively strong temperature dependence of the thermodynamicfactor \\Phi, which describes the thermodynamic driving force forinterdiffusion. The simulations also indicate that the Darken equation is agood approximation, even in the undercooled regime. This implies that dynamiccross correlations play a minor role for the temperature range underconsideration.",
+    "ai_generated_text": "computational results validates the interatomic potential and supports the interpretation that collective structural relaxation, rather than simple binary collision dynamics, governs transport in these metallic melts. This combined approach provides a comprehensive understanding of diffusion mechanisms in Al–Ni alloys and offers a framework applicable to other technologically relevant metallic systems."
+  },
+  {
+    "id": 148,
+    "original_text": "massive elliptical galaxies, which is in verygood agreement with the spectroscopic observations. Furthermore, we investigatethe impact of other non-linear mechanisms that shape the metallicitydistribution of globular cluster systems, in particular the role ofmerger-induced globular cluster formation and a non-linear color-metallicitytransformation, and discuss their influence in the context of our model(abridged)",
+    "ai_generated_text": "We further investigate radial trends, luminosity functions, and spatial anisotropies, finding evidence for enhanced accretion signatures in outer halo regions. These findings provide quantitative constraints on galaxy assembly timescales and merger histories, offering a unified framework to interpret globular cluster system multi-modality within the broader context of massive galaxy evolution."
+  },
+  {
+    "id": 149,
+    "original_text": "almostquiescence. We find that the accretion phase lasts longer than previouslythought on the basis of lower sensitivity instruments observing only thebrightest flares. The observed phenomenology is consistent with a smoothlyincreasing flux triggered at the periastron passage in a wide eccentric orbitwith many flares superimposed, possibly due to episodic or inhomogeneousaccretion.",
+    "ai_generated_text": "paper presents a synthesis of observational results from INTEGRAL, Swift, and XMM-Newton, discusses constraints on orbital parameters, and examines possible wind-clumping scenarios to explain the rapid flux changes. Understanding IGR J11215-5952 contributes to the broader picture of SFXT phenomenology and the physical processes driving transient accretion in high-mass X-ray binaries."
+  },
+  {
+    "id": 150,
+    "original_text": "objects in our sample. Wealso find that the [SIII] emission from the galaxies in our sample is extendedand originates primarily in star forming regions. Since the emission fromlow-ionization species is extended, any analysis using line flux ratios fromsuch species obtained from slits of different sizes is invalid for most nearbygalaxies.",
+    "ai_generated_text": "from aperture mismatches and extinction, and we compare our measurements to photoionization models to constrain the ionizing continuum shapes. These results establish mid-infrared fine-structure ratios as robust probes of AGN narrow-line regions and starburst H II regions, and provide a benchmark for future observations with *JWST* and next-generation infrared facilities."
+  }
+]
