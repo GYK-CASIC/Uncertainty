@@ -24,7 +24,7 @@ MODEL_ID  = ""
 MODEL_DTYPE = torch.bfloat16
 
 # ---- black-box setting hyperparameter ----
-X_TAIL = 13
+X_TAIL = 15
 RENYI_Q = 1.6
 WZ = 0.1
 
