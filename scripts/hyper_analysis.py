@@ -39,7 +39,7 @@ SAMPLE_SEED = 42
 # Experiment configs (your requests)
 # =========================================================
 # default
-X_DEFAULT = 13
+X_DEFAULT = 15
 Q_DEFAULT = 1.6
 WZ_DEFAULT = 0.1
 N_DEFAULT = 100
@@ -51,19 +51,19 @@ A1_N = 100
 A1_X_LIST = list(range(1, 51))  # 1..50
 
 # analysis 2 (skip 1.0)
-A2_X = 13
+A2_X = 15
 A2_WZ = 0.1
 A2_N = 100
 A2_Q_LIST = [round(x, 1) for x in np.arange(0.5, 2.0 + 1e-9, 0.1) if abs(x - 1.0) > 1e-9]
 
 # analysis 3
-A3_X = 13
+A3_X = 15
 A3_Q = 1.6
 A3_N = 100
 A3_WZ_LIST = [round(x, 1) for x in np.arange(0.1, 0.9 + 1e-9, 0.1)]
 
 # analysis 4
-A4_X = 13
+A4_X = 15
 A4_Q = 1.6
 A4_WZ = 0.1
 A4_N_LIST = [10, 100, 1000, 10000]
